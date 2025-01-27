@@ -1,8 +1,11 @@
 # Neuroscience PhD Student
 
-#### Technical Skills: R, Python, 
+#### Programming Languages: R, Python, MATLAB
+#### Data Analysis Skills: EMG data, genomic data, protein assay data (e.g. ELISAs, SIMOAs, Western blots), IF data, data visualization
 
-## Research Interests
+#### Research Interests:
+- applying bioinformatics and computational methods to address challenges in detecting, diagnosing, and treating neurological diseases and disorders
+
 
 ## Education
 - Ph.D., Neuroscience | Emory University (_Aug 2021 - Present_)
