@@ -8,15 +8,12 @@
 Ph.D., Neuroscience | Emory University (_Aug 2021 - Present_)
 B.S., Biomedical Sciences | Tarleton State University (_Aug 2015 - May 2019_)
 
-## Research Experience
-
 ## Projects
-
 ### Detecting Biomarkers for Early Alzhiemer's Disease and Mild Traumatic Brain Injury Recovery Using Non-Invasive Methods
 [Publication 1](https://link.springer.com/referenceworkentry/10.1007/978-3-031-07395-3_25); [Publication 2]()
 
-
-### Rotating Graduate Researcher, Emory University
+## Research Experience
+#### Rotating Graduate Researcher, Emory University
 *September 2024 – November 2024*
 Principal Investigator: Dr. Trisha Kesar
 -	Developed an automated, low-maintenance, and time efficient means of inventorying R01 project’s extensive electrophysiology data using a user-friendly, interactive Python dashboard
