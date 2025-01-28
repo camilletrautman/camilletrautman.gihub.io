@@ -1,20 +1,20 @@
 # Neuroscience PhD Student
-#### Programming Languages: R, Python, MATLAB
-#### Data Analysis Skills: EMG data, genomic data, protein assay data (e.g. ELISAs, SIMOAs, Western blots), IF data, data visualization
-#### Research Interests:
-- applying bioinformatics and computational methods to address challenges in detecting, diagnosing, and treating neurological diseases and disorders
+**Programming Languages**: R, Python, MATLAB
+**Data Analysis Skills**: EMG data, genomic data, protein assay data (e.g. ELISAs, SIMOAs, Western blots), IF data, data visualization
+**Research Interests**: applying bioinformatics and computational methods to address challenges in detecting, diagnosing, and treating neurological diseases and disorders
 
 
 ## Education
-- Ph.D., Neuroscience | Emory University (_Aug 2021 - Present_)
-- B.S., Biomedical Sciences | Tarleton State University (_Aug 2015 - May 2019_)
+Ph.D., Neuroscience | Emory University (_Aug 2021 - Present_)
+B.S., Biomedical Sciences | Tarleton State University (_Aug 2015 - May 2019_)
 
 ## Research Experience
 
 ## Projects
 
 ### Detecting Biomarkers for Early Alzhiemer's Disease and Mild Traumatic Brain Injury Recovery Using Non-Invasive Methods
-[Publication](https://link.springer.com/referenceworkentry/10.1007/978-3-031-07395-3_25)
+[Publication 1](https://link.springer.com/referenceworkentry/10.1007/978-3-031-07395-3_25); [Publication 2]()
+
 
 ### Rotating Graduate Researcher, Emory University
 *September 2024 – November 2024*
@@ -30,8 +30,7 @@ Principal Investigator: Dr. Gary Bassell
 -	Cultured human induced pluripotent stem cells, human neurons, and cerebral organoids
 -	Transfected mouse primary culture neurons with DNA plasmids
 -	Performed immunofluorescence staining and imaging on mouse primary culture neurons and human neural progenitor cells 
--	Detected protein-protein interactions using proximity ligation assays and co- 
-immunoprecipitation assays
+-	Detected protein-protein interactions in ALS-associated proteins using proximity ligation assays and co-immunoprecipitation assays
 -	Quantified protein and DNA concentrations using Western blots and quantitative polymerase chain reactions, respectively
 
 #### Professional Research Assistant, Knoebel Institute for Healthy Aging	
@@ -47,22 +46,22 @@ Principal Investigator: Dr. Aurélie Ledreux
 #### Undergraduate Researcher, Tarleton State University	
 *June 2016 – May 2019*
 Principal Investigator: Dr. Dustin Edwards
-•	Developed polymerase chain reaction protocols to amplify retroviral DNA from dried blood spots
-•	Detected viral proteins in blood samples via ELISAs
-•	Helped care for quail animal models and assisted in blood draws 
+-	Developed polymerase chain reaction protocols to amplify retroviral DNA from dried blood spots
+-	Detected viral proteins in blood samples via ELISAs
+-	Helped care for quail animal models and assisted in blood draws 
  
 #### HHMI EXROP Fellow, University of California, San Diego	
 *May 2018 – August 2018*
 Principal Investigator: Dr. Joseph Gleeson
-•	Amplified suspected gene mutations from human blood samples 
-•	Analyzed sequenced DNA to identify potentially etiological mutations
-•	Aided in CRISPR-knock out of genes in patient iPSCs
+-	Amplified suspected gene mutations from human blood samples 
+-	Analyzed sequenced DNA to identify potentially etiological mutations
+-	Aided in CRISPR-knock out of genes in patient iPSCs
 
 #### HHMI SEA-PHAGES Researcher, Tarleton State University	
 *August 2017 – May 2018*
 Principal Investigators: Dr. Dustin Edwards, Dr. James Pierce, and Dr. Jesse Meik
-•	Discovered novel bacteria-infecting virus from environmental sample
-•	Characterized viral genome, identifying a putative CRISPR-associated gene
+-	Discovered novel bacteria-infecting virus from environmental sample
+-	Characterized viral genome, identifying a putative CRISPR-associated gene
 
 
 ### Projects
